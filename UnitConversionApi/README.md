@@ -9,7 +9,7 @@ This project is an ASP.NET Core Web API that converts values between different u
 ### Length
 
 * Meter to Feet
-* Feet to Meter
+* Feet to Meter.
 
 ### Temperature
 
